@@ -1,7 +1,7 @@
 # Mobile_App_Homework
 Flutter Ders Projesi
 
-https://github.com/keyvanarasteh
+@keyvanarasteh
 
 ![Screenshot_1701029166](https://github.com/ArxEmze/Mobile_App_Homework/assets/107351003/94f49732-8e20-4ef2-af65-b353eccb5ef2)
 ![Screenshot_1701029161](https://github.com/ArxEmze/Mobile_App_Homework/assets/107351003/bdcf0c22-be01-41b2-a510-49e0123aad2b)
